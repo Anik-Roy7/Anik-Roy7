@@ -79,15 +79,13 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 
 
 ---
+
 ## 📊 GitHub Stats:
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anik-Roy7&theme=github-green-purple&border_radius=4.9&border=E3D512&ring=FFD700" alt="GitHub Streak" /></a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="Anik-Roy7's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Anik-Roy7?cardType=level&fontFamily=&preferLogin=false" />  </a>
 
 </div><br>
----
-
-<div align="center">
 ---
 
 <div align="center">
