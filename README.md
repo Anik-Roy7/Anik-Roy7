@@ -82,7 +82,7 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 ## 📊 GitHub Stats:
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arjya-das&theme=github-green-purple&border_radius=4.9&border=E3D512&ring=FFD700" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anik-Roy7&theme=github-green-purple&border_radius=4.9&border=E3D512&ring=FFD700" alt="GitHub Streak" /></a>
 
 </div><br>
 ---
